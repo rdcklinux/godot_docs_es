@@ -2,4 +2,4 @@
 
 Este es el punto de partida para explorar la documentación de Godot en español
 
-para comenzar haz clic en [Inicio](/Home)
+para comenzar haz clic en [Inicio](/godot-wiki/wiki/Home)
