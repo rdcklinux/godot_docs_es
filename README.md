@@ -1,5 +1,5 @@
-# Documentacion de Godot En Español
+# Documentación de Godot En Español
 
-Desde aqui puedes explorar la documentacion de Godot en español
+Este es el punto de partida para explorar la documentación de Godot en español
 
-para comenzar haz clic aqui [Inicio](wiki/Home)
+para comenzar haz clic en [Inicio](Home)
